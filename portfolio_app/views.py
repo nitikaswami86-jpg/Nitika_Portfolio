@@ -15,7 +15,8 @@ def home(request):
             'description': 'A full-stack web application to manage student records, attendance, and grades using Django backend with a responsive Bootstrap frontend.',
             'tech': 'Python, Django, Bootstrap, SQLite',
             'category': 'python',
-            'github': 'https://github.com/nitikaswami',
+            'github': 'https://github.com/nitikaswami86-jpg/Student_management.git',
+            'live': 'https://student-management-5-92h9.onrender.com',
             'image' : 'img/student.png'
         },
         {
@@ -35,11 +36,12 @@ def home(request):
             'icon': '✍️'
         },
         {
-            'title': 'Weather Dashboard',
+            'title': 'Weather App',
             'description': 'An interactive weather app fetching real-time data from OpenWeatherMap API, with animated weather icons and 5-day forecast.',
-            'tech': 'JavaScript, HTML5, CSS3, REST API',
+            'tech': 'JavaScript, HTML5, CSS3, Bootstrap',
             'category': 'frontend',
-            'github': 'https://github.com/nitikaswami',
+            'github': 'https://github.com/nitikaswami86-jpg/Weather_app.git',
+            'live': 'https://weather-app-19np.onrender.com', 
             'image' : 'img/weather.png'
         },
         {
@@ -55,7 +57,8 @@ def home(request):
             'description': 'This very portfolio — a full-stack Django-powered website with contact form backend, smooth animations, and fully responsive design.',
             'tech': 'Django, HTML, CSS, Bootstrap, JS',
             'category': 'web',
-            'github': 'https://github.com/nitikaswami',
+            'github': 'https://github.com/nitikaswami86-jpg/Nitika_Portfolio.git',
+            'live': 'https://nitika-portfolio-1.onrender.com/', 
             'image' : 'img/portfolio.png'
         },
     ]
