@@ -24,7 +24,8 @@ def home(request):
             'description': 'A fully responsive e-commerce product showcase with cart functionality, built with pure HTML, CSS, Bootstrap and JavaScript.',
             'tech': 'HTML, CSS, Bootstrap, JavaScript',
             'category': 'frontend',
-            'github': 'https://github.com/nitikaswami',
+            'github': 'https://github.com/nitikaswami86-jpg/Nexashop.git',
+            'live' : 'https://nexashop-2.onrender.com',
             'image' : 'img/e-commerce.png'
         },
         {
